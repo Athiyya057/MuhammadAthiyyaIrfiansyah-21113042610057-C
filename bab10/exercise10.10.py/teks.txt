@@ -1,0 +1,3 @@
+The cat is sleeping.
+The dog is playing.
+I like the cat.
